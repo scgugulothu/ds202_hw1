@@ -1,0 +1,16 @@
+---
+title:"Homework #1" 
+author:"Sai Gugulothu"
+output: html_document
+---
+
+1. I consider working on getting a minor in data science becasue data is everywhere and I was to learn more in how to create different models and how to analyze those models to creat visual representations with that data. Since I am a computer science major, adding this to the things I learned in college would be *very* helpful to me and my career. 
+
+[Link to Study](https://www.visionlearning.com/en/library/Process-of-Science/49/Using-Graphs-and-Visual-Data-in-Science/156)
+
+[Hey](https://www.visionlearning.com/img/library/large_images/image_4109.png)
+
+
+```{r}
+version
+```
